@@ -3,6 +3,8 @@
 This repository is the source codes implementation of  "GCTAM: Global and Contextual Truncated Affinity Combined
 Maximization Model For Unsupervised Graph Anomaly Detection"
 
+# Overview
+![Overview of GCTAM](fig_framework.png)
 
 # running environment
 * python 3.10.15
@@ -20,8 +22,6 @@ python train_GCTAM.py
 ```
 
 # Dataset
-For convenience, all the datasets can be obtained from https://drive.google.com/drive/folders/1qcDBcVdcfAr_q5VOXBYagtnhA_r3Mm3Z?usp=drive_link
-Download the datasets and place them in the /data folder of the root directory.
 
 | Dataset | Nodes | Edges      | Attributes         | Anomalies(Rate) |
 |--------|-------------|----------|----------------|----------|
