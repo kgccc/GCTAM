@@ -21,6 +21,7 @@ python train_GCTAM.py
 
 # Dataset
 For convenience, all the datasets can be obtained from https://drive.google.com/drive/folders/1qcDBcVdcfAr_q5VOXBYagtnhA_r3Mm3Z?usp=drive_link
+Download the datasets and place them in the /data folder of the root directory.
 
 | Dataset | Nodes | Edges      | Attributes         | Anomalies(Rate) |
 |--------|-------------|----------|----------------|----------|
