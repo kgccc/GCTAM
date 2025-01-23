@@ -20,6 +20,7 @@ python train_GCTAM.py
 ```
 
 # Dataset
+For convenience, all the datasets can be obtained from https://drive.google.com/drive/folders/1qcDBcVdcfAr_q5VOXBYagtnhA_r3Mm3Z?usp=drive_link
 
 | Dataset | Nodes | Edges      | Attributes         | Anomalies(Rate) |
 |--------|-------------|----------|----------------|----------|
