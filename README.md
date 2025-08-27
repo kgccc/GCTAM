@@ -15,6 +15,10 @@ Maximization Model For Unsupervised Graph Anomaly Detection"
 * scikit-learn 1.0.2
 * scipy 1.9.0
 
+# Data
+The first step is to get the dataset from the following link.
+https://drive.google.com/drive/folders/1HP6xRrlDxVDY0HMy7gL7lnIsQ170gc3G?usp=sharing
+The second step is to put it in the /data path.
 
 # Training
 ```train
@@ -40,3 +44,4 @@ Our model achieves the following performance on :
 |--------|--------|---------|---------|----------|--------|------------|-------------|
 | AUROC | 0.8438 | 0.7900 | 0.9077 | 0.9238 | 0.5921 | 0.8889 | 0.5957 |
 | AUPRC | 0.5069 | 0.1604 | 0.5210 | 0.2281 | 0.0417 | 0.6718 | 0.2013 |
+
