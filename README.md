@@ -39,12 +39,24 @@ python train_GCTAM.py
 | Amazon-all  |11,944 |4,398,392| 25| 821(6.87%)|
 | YelpChi-all |45,941 | 3,846,979 |32 |6,674(14.52%)|
 
-## Results
+# Results
 
 Our model achieves the following performance on :
 | Metric | Amazon | YelpChi | ACM | Facebook | Reddit | Amazon-all | YelpChi-all |
 |--------|--------|---------|---------|----------|--------|------------|-------------|
 | AUROC | 0.8438 | 0.7900 | 0.9077 | 0.9238 | 0.5921 | 0.8889 | 0.5957 |
 | AUPRC | 0.5069 | 0.1604 | 0.5210 | 0.2281 | 0.0417 | 0.6718 | 0.2013 |
+
+# Cite
+If you compare with, build on, or use aspects of this work, please cite the following:
+
+```js/java/c#/text
+@inproceedings{liu2024arc,
+  title={GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection},
+  author={Xiong Zhang and Hong Peng and Zhenli He and Cheng Xie and Xin Jin and Hua Jiang},
+  booktitle={International Joint Conference on Artificial Intelligence},
+  year={2025}
+}
+```
 
 
