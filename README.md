@@ -53,11 +53,12 @@ If you compare with, build on, or use aspects of this work, please cite the foll
 ```js/java/c#/text
 @inproceedings{zhang2025gctam,
   title={GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection},
-  author={Xiong Zhang and Hong Peng and Zhenli He and Cheng Xie and Xin Jin and Hua Jiang},
+  author={Zhang, Xiong and  Peng, Hong  and He, Zhenli and Xie, Cheng  and Jin, Xin  and Jiang, Hua},
   booktitle={International Joint Conference on Artificial Intelligence},
   year={2025}
 }
 ```
+
 
 
 
