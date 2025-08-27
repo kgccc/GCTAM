@@ -1,7 +1,7 @@
-# GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection
+# GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection 
 
 This repository is the source codes implementation of  "GCTAM: Global and Contextual Truncated Affinity Combined
-Maximization Model For Unsupervised Graph Anomaly Detection"
+Maximization Model For Unsupervised Graph Anomaly Detection", accepted by IJCAI 2025.
 
 # Overview
 ![Overview of GCTAM](fig_framework.png)
@@ -58,6 +58,7 @@ If you compare with, build on, or use aspects of this work, please cite the foll
   year={2025}
 }
 ```
+
 
 
 
