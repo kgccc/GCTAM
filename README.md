@@ -51,12 +51,13 @@ Our model achieves the following performance on :
 If you compare with, build on, or use aspects of this work, please cite the following:
 
 ```js/java/c#/text
-@inproceedings{liu2024arc,
+@inproceedings{zhang2025gctam,
   title={GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection},
   author={Xiong Zhang and Hong Peng and Zhenli He and Cheng Xie and Xin Jin and Hua Jiang},
   booktitle={International Joint Conference on Artificial Intelligence},
   year={2025}
 }
 ```
+
 
 
